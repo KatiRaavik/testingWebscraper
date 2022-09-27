@@ -1,0 +1,17 @@
+{
+    "name": "t1get/webscraper",
+    "autoload": {
+        "psr-4": {
+            "Scraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kati Raavik",
+            "email": "kati.raavik@tptlive.ee"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
